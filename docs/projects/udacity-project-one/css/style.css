@@ -1,0 +1,12 @@
+/* Import CSS files */
+@import '../css/config.css';
+@import '../css/header.css';
+@import '../css/content.css';
+@import '../css/cards.css';
+@import '../css/articles.css';
+@import '../css/breadcrumbs.css';
+@import '../css/sidebar.css';
+@import '../css/search.css';
+@import '../css/pagination.css';
+@import '../css/about.css';
+@import '../css/footer.css';
